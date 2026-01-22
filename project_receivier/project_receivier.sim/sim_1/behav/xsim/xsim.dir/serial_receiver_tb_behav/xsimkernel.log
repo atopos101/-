@@ -1,0 +1,7 @@
+Running: xsim.dir/serial_receiver_tb_behav/xsimk.exe -simmode gui -wdb serial_receiver_tb_behav.wdb -simrunnum 0 -socket 52650
+Design successfully loaded
+Design Loading Memory Usage: 7920 KB (Peak: 7920 KB)
+Design Loading CPU Usage: 46 ms
+Simulation completed
+Simulation Memory Usage: 16716 KB (Peak: 16716 KB)
+Simulation CPU Usage: 967 ms

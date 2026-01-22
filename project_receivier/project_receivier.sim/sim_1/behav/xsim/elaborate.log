@@ -1,0 +1,14 @@
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto 379ce9ea954f418aa8fea4ea5f44b719 --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot serial_receiver_tb_behav xil_defaultlib.serial_receiver_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.serial_receiver
+Compiling module xil_defaultlib.serial_receiver_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot serial_receiver_tb_behav
